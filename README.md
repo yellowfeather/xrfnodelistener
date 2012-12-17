@@ -10,7 +10,7 @@ An Node.js app that listens for activity from XRF nodes.
 
 Assuming you have [node.js](http://nodejs.org/) and [npm](https://npmjs.org/) installed you can install with
 
-    git clone git@github.com:yellowfeather/xrfnodelistener.git
+    git clone git://github.com/yellowfeather/xrfnodelistener.git
     cd xrfnodelistener
     npm install
 
