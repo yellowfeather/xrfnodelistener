@@ -4,6 +4,7 @@
 
 An Node.js app that listens for activity from XRF nodes.
 
+[XRF wireless RF radio UART RS232 serial data module XBee shape](http://shop.ciseco.co.uk/xrf-wireless-rf-radio-uart-rs232-serial-data-module-xbee-shape-arduino-pic-etc/)
 
 
 ## Installation
