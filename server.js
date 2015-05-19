@@ -1,7 +1,5 @@
 var express = require('express');
 var http = require('http');
-var bodyParser = require('body-parser');
-var methodOverride = require('method-override');
 var errorHandler = require('errorhandler');
 
 var app = express();
@@ -12,8 +10,6 @@ app.set('view options', {
   layout: false
 });
 
-app.use(bodyParser);
-app.use(methodOverride);
 app.use(require('stylus').middleware({
   src: __dirname + '/public'
 }));
